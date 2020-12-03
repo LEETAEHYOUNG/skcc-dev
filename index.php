@@ -1,3 +1,0 @@
-<?
-echo "Dev Webapp";
-?>
